@@ -3,6 +3,8 @@ A simple application that fixes *.gz files lookup for unity WebGL build exports
 
 ## Usage
 
+Download latest version from releases
+
 Just copy and execute `uwef.exe` (in Windows) or `uwef` (in macOS) to your build output folder and the tool will lookup for the build JSON config file and will fix its properties if needed.
 
 The program behavior can be customized:

@@ -1,1 +1,1 @@
-go build -o uwef.exe
+go build -o dist\uwef-win.exe

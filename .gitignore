@@ -9,3 +9,6 @@
 
 # Jetbrains Config
 .idea
+
+# Distribution folder
+dist

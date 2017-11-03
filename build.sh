@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-go build -o uwef
+mkdir ./dist
+go build -o ./dist/uwef-macos
